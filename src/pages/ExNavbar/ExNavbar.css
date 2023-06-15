@@ -1,0 +1,29 @@
+.app__exnavbar {
+    display: -webkit-box;
+    background: var(--color-black);
+    border-bottom: 0.3px solid var(--color-white);
+}
+
+.app__exnav {
+    display: flex;
+}
+
+.app__exnavbar-logo {
+    width: max-content;
+    padding-top: 0.02rem;
+}
+
+.app__exnavbar-logo img {
+    width: 150px;
+    padding: 15px 0;
+}
+
+.app__exnavbar-img {
+    display: flex;
+    padding: 0.79rem;
+}
+
+.app__exnavbar-img img {
+    width: 45px;
+    height: 45px;
+}
